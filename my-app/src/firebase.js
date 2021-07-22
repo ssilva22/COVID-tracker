@@ -1,4 +1,6 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+import firebase from "firebase";
+
 const firebaseConfig = {
     apiKey: "AIzaSyCxFSG-wFr7d9dmRkZ7lbGs32ZBpqdBGL4",
     authDomain: "covid-19-tracker-54dee.firebaseapp.com",
